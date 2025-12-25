@@ -85,7 +85,6 @@ Multiple regression models were implemented and evaluated:
 - Gradient Boosting Regressor  
 - Support Vector Regressor (SVR)  
 - K-Nearest Neighbors Regressor  
-- **AutoGluon Tabular (benchmark model)**  
 
 ### Evaluation Metric
 - **Mean Squared Error (MSE)** on a held-out test set  
