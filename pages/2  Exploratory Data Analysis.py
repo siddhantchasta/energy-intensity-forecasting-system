@@ -1,3 +1,4 @@
+# Exploratory Data Analysis for Energy Intensity Forecasting
 import streamlit as stl 
 stl.set_page_config(layout="wide")
 
