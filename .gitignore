@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+bin/
+include/
+share/
+
+# OS files
+.DS_Store
+
+# Environment variables
+.env
+
+# Auto-generated reports
+EDA.html
+
+# Analysis outputs
+EDA_PLOTS/
+
+# Documentation (optional)
+README.md
+
+# Optional: Jupyter
+*.ipynb
